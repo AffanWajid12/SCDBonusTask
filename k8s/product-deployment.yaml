@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: product-service
-        image: yourdockerhub/product-service
+        image: affanwajid/product-service
         ports:
         - containerPort: 3002
         env:
